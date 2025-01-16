@@ -2,7 +2,6 @@ import FloatingBackgroundElements from "./floating-background-elements"
 import HeadSection from "./head-section"
 import LandingImageText from "./landing-image-text"
 import MaxWidthWrapper from "./max-width-wrapper"
-import SectionLinks from "./section-links"
 
 const Jumbotron = () => {
   return (
